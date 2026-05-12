@@ -1,6 +1,5 @@
 {
   "name": "forexai-pro",
   "version": "1.0.0",
-  "description": "ForexAI Pro — Analyse SMC/ICT temps réel",
   "engines": { "node": ">=18" }
 }
